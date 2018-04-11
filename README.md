@@ -10,4 +10,6 @@
 
 2018-01-12 [*PWN*]百度杯十一月场pwn专题赛
 
-2018-01-18 [*PWN*][路由器漏洞简单介绍]()
+2018-01-18 [*PWN*][路由器漏洞简单介绍](https://github.com/D4rkD0g/2018_Recoder/blob/master/2018-01-18.pdf)
+
+2018-01-19 [*PWN*][Cyberearth XCTF实时数据管理](https://github.com/D4rkD0g/2018_Recoder/blob/master/2018-01-19.pdf)
